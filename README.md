@@ -16,11 +16,4 @@ Las funcionalidades simuladas incluyen:
 - Búsqueda de productos
 - Agregar productos al carrito
 
----
-
-🔧 Tecnologías utilizadas:
-- Markdown (documentación)
-- Jira/TestRail simulados para gestión de pruebas
-- Flujo de pruebas pensado para desktop y responsive
-
 💡 Este repositorio forma parte de mi portafolio como QA Specialist.
