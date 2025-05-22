@@ -1,4 +1,4 @@
-## 🧩 Historias de Usuario (simuladas)
+## 🧩 Historias de Usuario (simuladas) 
 
 **HU001** – Como usuario, quiero iniciar sesión para acceder a mi cuenta.  
 **HU002** – Como usuario, quiero buscar productos para encontrarlos fácilmente.  
