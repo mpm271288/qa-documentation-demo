@@ -1,3 +1,11 @@
+## 🧩 Historias de Usuario (simuladas)
+
+**HU001** – Como usuario, quiero iniciar sesión para acceder a mi cuenta.  
+**HU002** – Como usuario, quiero buscar productos para encontrarlos fácilmente.  
+**HU003** – Como usuario, quiero agregar productos al carrito para comprarlos más tarde.
+
+---
+
 # 📝 Casos de Prueba
 
 ## CP001 – Login exitoso
