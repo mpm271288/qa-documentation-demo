@@ -3,7 +3,7 @@
 Este repositorio contiene ejemplos de documentación QA manual, elaborados con base en buenas prácticas aplicadas durante más de 12 años de experiencia en aseguramiento de calidad de software.
 
 📌 Incluye:
-- [Plan de pruebas funcionales](plan_de_pruebas.md)
+- [Plan de pruebas funcionales](plan-de-pruebas.md)
 - Casos de prueba
 - Matriz de trazabilidad
 - Reporte de defectos
