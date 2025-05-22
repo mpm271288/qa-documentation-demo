@@ -4,9 +4,9 @@ Este repositorio contiene ejemplos de documentación QA manual, elaborados con b
 
 📌 Incluye:
 - [Plan de pruebas funcionales](plan-de-pruebas.md)
-- Casos de prueba
-- Matriz de trazabilidad
-- Reporte de defectos
+- [Casos de prueba](casos-de-prueba.md)
+- [Matriz de trazabilidad](matriz-de-trazabilidad.md)
+- [Reporte de defectos](reporte-de-defectos.md)
 
 📝 **Este proyecto está basado en una aplicación e-commerce ficticia creada con fines demostrativos.**  
 No está vinculado a una tienda real, sino que busca mostrar mi experiencia en el diseño y documentación de procesos QA manuales.
