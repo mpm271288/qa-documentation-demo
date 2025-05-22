@@ -1,4 +1,4 @@
-# 📋 Plan de Pruebas
+# 📋 Plan de Pruebas 
 
 **Proyecto:** Tienda Online Demo  
 **Objetivo:** Validar el correcto funcionamiento de los flujos principales del sistema: login, búsqueda de productos y operaciones con el carrito de compras.
