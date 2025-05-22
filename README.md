@@ -1,6 +1,3 @@
-# qa-documentation-demo
-Repositorio de ejemplo con documentación QA manual para portafolio
-
 # 📄 QA Documentation Demo
 
 Este repositorio contiene ejemplos de documentación QA manual, elaborados con base en buenas prácticas aplicadas durante más de 12 años de experiencia en aseguramiento de calidad de software.
